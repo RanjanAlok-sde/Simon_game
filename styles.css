@@ -16,6 +16,7 @@ body {
   color: #011F3F;
   margin-left: 5%;
   border-radius: 20%;
+  cursor: pointer;
 }
 .container {
   display: block;

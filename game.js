@@ -18,7 +18,7 @@ function nextSequence(){
     userClickedPattern = [];
 
     level++;
-    if(level > 3){
+    if(level > 20){
         $("h1").html(`Hurray!, You won the game. Press <button id="start"><b>Restart</b></button> to restart`);
         startOver();
     }
